@@ -1,128 +1,18 @@
 {
-    "RecentJobs": [
-        {
-            "icon": "icon-post",
-            "title": "Posted Job",
-            "jobTitle": "Financial Analyst",
-            "date": "05.05.2021"
-        },
-        {
-            "icon": "icon-post",
-            "title": "Posted Job",
-            "jobTitle": "Accounts Payable Supervisor",
-            "date": "05.05.2021"
-        },
-        {
-            "icon": "icon-post",
-            "title": "Posted Job",
-            "jobTitle": "Financial Analyst",
-            "date": "05.05.2021"
-        }
-    ],
-    "NewResumes": [
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Project Manager",
-            "name": "Stephen Jackson",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Insurance Sales Agent",
-            "name": "Stephen Jackson",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Project Manager",
-            "name": "Emma Johnson",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Web Developer",
-            "name": "Trey Smith",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Project Manager",
-            "name": "Stephen Jackson",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Sales Manager",
-            "name": "Katerin Adams",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Retail Salesperson",
-            "name": "Chris Jordan",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Operations Manager",
-            "name": "Robert Cena",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Project Manager",
-            "name": "Stephen Jackson",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        },
-        {
-            "icon": "icon-favorite-outline",
-            "jobTitle": "Accountant",
-            "name": "Dana Buxton",
-            "postedDate": "Feb 13, 2021",
-            "location": "Seattle, WA"
-        }
-    ],
-
-    "Messages": [
-        {
-            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-            "name": "Stephen Jackson",
-            "subject": "new job posting",
-            "text": "Jennifer, I'm letting you know that a new job that I feel woluld be a great fit has been posted. You can..",
-            "date": "05.05.2021"
-        },
-        {
-            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-            "name": "Dana Buxton",
-            "subject": "new job posting",
-            "text": "Jennifer, I'm letting you know that a new job that I feel woluld be a great fit has been posted. You can..",
-            "date": "05.05.2021"
-        }
-       
-    ],
     "NewJobs": [
         {
-			"title": "Accounts Payable Clerk",
+	    "title": "Accounts Payable Clerk",
             "servicesName":"AMP Services",
             "postDate": "February 13, 2021",
             "location": "Seattle, WA",
             "discription": "The Accounts Payable Clerk position involves providing financial, administrative and clerical support to the AMP Services team and our clients."
         },
-		{
-			"title": "Accounts Payable Clerk",
-            "servicesName":"AMP Services",
+	{
+	    "title": "Accounting Specialist",
+            "servicesName":"Center for MultiCultural Health",
             "postDate": "February 13, 2021",
             "location": "Seattle, WA",
-            "discription": "The Accounts Payable Clerk position involves providing financial, administrative and clerical support to the AMP Services team and our clients."
+            "discription": "Process accounts payable invoices/bills reviewing for accuracy, completeness and coding to grant and general ledger codes. Prepares payments for signatures"
         }
     ],
 	"Sponsership": [
