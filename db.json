@@ -86,5 +86,77 @@
             "phone": "203.555.7384",
              "jobcompany": "Starbucks"
         }
+    ],
+	"SupportTeamMembers": [
+        {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Jessica Adams",
+            "email": "jess.adams@gmail.com",
+            "phone": "203.555.7384",
+            "jobcompany": "Starbucks"
+        },
+       {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Sarah Baker",
+            "email": "sa.baker@gmail.com",
+            "phone": "203.555.7384",
+              "jobcompany": "Chase"
+        },
+	 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+             "jobcompany": "Accenture"
+        },
+	 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Becky Holnes",
+            "email": "becky@gmail.com",
+            "phone": "203.555.7384",
+             "jobcompany": "Starbucks"
+        },
+	 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+             "jobcompany": "Chase"
+        },
+	 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Becky Holnes",
+            "email": "becky@gmail.com",
+            "phone": "203.555.7384",
+             "jobcompany": "Accenture"
+        },
+	 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+              "jobcompany": "Starbucks"
+        },
+		 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+             "jobcompany": "Chase"
+        },
+		 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+              "jobcompany": "Accenture"
+        },
+		 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+             "jobcompany": "Starbucks"
+        }
     ]
 }
