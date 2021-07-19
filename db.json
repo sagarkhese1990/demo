@@ -1,241 +1,200 @@
 {
-  "products": [
-            {
-                "price": 1.0,
-                "addons": [],
-                "nutrition_data": {
-                    "saturated_fat": 0.0,
-                    "energy": 0.0,
-                    "sugar": 0.0,
-                    "fat": 0.0,
-                    "protein": 0.0,
-                    "sodium": 0.0,
-                    "carbs": 0.0
-                },
-                "name": "Build Your Own"
-            },
-            {
-                "price": 1.0,
-                "addons": [],
-                "nutrition_data": {
-                    "saturated_fat": 0.0,
-                    "energy": 0.0,
-                    "sugar": 0.0,
-                    "fat": 0.0,
-                    "protein": 0.0,
-                    "sodium": 0.0,
-                    "carbs": 0.0
-                },
-                "name": "Test Bowl 1"
-            },
-            {
-                "price": 1.0,
-                "addons": [],
-                "nutrition_data": {
-                    "saturated_fat": 0.0,
-                    "energy": 0.0,
-                    "sugar": 0.0,
-                    "fat": 0.0,
-                    "protein": 0.0,
-                    "sodium": 0.0,
-                    "carbs": 0.0
-                },
-                "name": "Test Bowl 3"
-            },
-            {
-                "price": 1.0,
-                "addons": [
-                    {
-                        "addon_categ_id": 1,
-                        "products": [
-                            {
-                                "price": 0.0,
-                                "is_mod": true,
-                                "nutrition_data": {
-                                    "saturated_fat": 0.0,
-                                    "energy": 0.0,
-                                    "sugar": 0.0,
-                                    "fat": 0.0,
-                                    "protein": 0.0,
-                                    "sodium": 0.0,
-                                    "carbs": 0.0
-                                },
-                                "qty": 10.0,
-                                "name": "No Tomatoes"
-                            },
-                            {
-                                "price": 0.0,
-                                "is_mod": true,
-                                "nutrition_data": {
-                                    "saturated_fat": 0.0,
-                                    "energy": 0.0,
-                                    "sugar": 0.0,
-                                    "fat": 0.0,
-                                    "protein": 0.0,
-                                    "sodium": 0.0,
-                                    "carbs": 0.0
-                                },
-                                "qty": 10.0,
-                                "name": "No Onions"
-                            }
-                        ],
-                        "addon_categ_name": "Modification"
-                    },
-                    {
-                        "addon_categ_id": 2,
-                        "products": [
-                            {
-                                "price": 1.0,
-                                "is_mod": false,
-                                "nutrition_data": {
-                                    "saturated_fat": 0.0,
-                                    "energy": 0.0,
-                                    "sugar": 0.0,
-                                    "fat": 0.0,
-                                    "protein": 0.0,
-                                    "sodium": 0.0,
-                                    "carbs": 0.0
-                                },
-                                "qty": 10.0,
-                                "name": "Green Salads"
-                            },
-                            {
-                                "price": 1.0,
-                                "is_mod": false,
-                                "nutrition_data": {
-                                    "saturated_fat": 0.0,
-                                    "energy": 0.0,
-                                    "sugar": 0.0,
-                                    "fat": 0.0,
-                                    "protein": 0.0,
-                                    "sodium": 0.0,
-                                    "carbs": 0.0
-                                },
-                                "qty": 10.0,
-                                "name": "Bulgar"
-                            }
-                        ],
-                        "addon_categ_name": "Addons 1"
-                    },
-                    {
-                        "addon_categ_id": 3,
-                        "products": [
-                            {
-                                "price": 1.0,
-                                "is_mod": false,
-                                "nutrition_data": {
-                                    "saturated_fat": 0.0,
-                                    "energy": 0.0,
-                                    "sugar": 0.0,
-                                    "fat": 0.0,
-                                    "protein": 0.0,
-                                    "sodium": 0.0,
-                                    "carbs": 0.0
-                                },
-                                "qty": 10.0,
-                                "name": "Tuna"
-                            },
-                            {
-                                "price": 1.0,
-                                "is_mod": false,
-                                "nutrition_data": {
-                                    "saturated_fat": 0.0,
-                                    "energy": 0.0,
-                                    "sugar": 0.0,
-                                    "fat": 0.0,
-                                    "protein": 0.0,
-                                    "sodium": 0.0,
-                                    "carbs": 0.0
-                                },
-                                "qty": 10.0,
-                                "name": "Chick Peas"
-                            }
-                        ],
-                        "addon_categ_name": "Addon 2"
-                    }
-                ],
-                "nutrition_data": {
-                    "saturated_fat": 0.0,
-                    "energy": 0.0,
-                    "sugar": 0.0,
-                    "fat": 0.0,
-                    "protein": 0.0,
-                    "sodium": 0.0,
-                    "carbs": 0.0
-                },
-                "name": "Test Bowl 4"
-            },
-            {
-                "price": 1.0,
-                "addons": [
-                    {
-                        "addon_categ_id": 5,
-                        "products": [
-                            {
-                                "price": 1.0,
-                                "is_mod": false,
-                                "nutrition_data": {
-                                    "saturated_fat": 0.0,
-                                    "energy": 0.0,
-                                    "sugar": 0.0,
-                                    "fat": 0.0,
-                                    "protein": 0.0,
-                                    "sodium": 0.0,
-                                    "carbs": 0.0
-                                },
-                                "qty": 10.0,
-                                "name": "Tuna"
-                            },
-                            {
-                                "price": 1.0,
-                                "is_mod": false,
-                                "nutrition_data": {
-                                    "saturated_fat": 0.0,
-                                    "energy": 0.0,
-                                    "sugar": 0.0,
-                                    "fat": 0.0,
-                                    "protein": 0.0,
-                                    "sodium": 0.0,
-                                    "carbs": 0.0
-                                },
-                                "qty": 10.0,
-                                "name": "Steak"
-                            }
-                        ],
-                        "addon_categ_name": "Addons"
-                    },
-                    {
-                        "addon_categ_id": 1,
-                        "products": [
-                            {
-                                "price": 0.0,
-                                "is_mod": true,
-                                "nutrition_data": {
-                                    "saturated_fat": 0.0,
-                                    "energy": 0.0,
-                                    "sugar": 0.0,
-                                    "fat": 0.0,
-                                    "protein": 0.0,
-                                    "sodium": 0.0,
-                                    "carbs": 0.0
-                                },
-                                "qty": 1.0,
-                                "name": "No Onion"
-                            }
-                        ],
-                        "addon_categ_name": "Modification"
-                    }
-                ],
-                "nutrition_data": {
-                    "saturated_fat": 0.0,
-                    "energy": 0.0,
-                    "sugar": 0.0,
-                    "fat": 0.0,
-                    "protein": 0.0,
-                    "sodium": 0.0,
-                    "carbs": 0.0
-                },
-                "name": "Test Bowl Live 2"
-            }
-        ],
+    "RecentJobs": [
+        {
+            "icon": "icon-post",
+            "title": "Posted Job",
+            "jobTitle": "Financial Analyst",
+            "date": "05.05.2021"
+        },
+        {
+            "icon": "icon-post",
+            "title": "Posted Job",
+            "jobTitle": "Accounts Payable Supervisor",
+            "date": "05.05.2021"
+        },
+        {
+            "icon": "icon-post",
+            "title": "Posted Job",
+            "jobTitle": "Financial Analyst",
+            "date": "05.05.2021"
+        }
+    ],
+    "NewResumes": [
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Project Manager",
+            "name": "Stephen Jackson",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Insurance Sales Agent",
+            "name": "Stephen Jackson",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Project Manager",
+            "name": "Emma Johnson",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Web Developer",
+            "name": "Trey Smith",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Project Manager",
+            "name": "Stephen Jackson",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Sales Manager",
+            "name": "Katerin Adams",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Retail Salesperson",
+            "name": "Chris Jordan",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Operations Manager",
+            "name": "Robert Cena",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Project Manager",
+            "name": "Stephen Jackson",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        },
+        {
+            "icon": "icon-favorite-outline",
+            "jobTitle": "Accountant",
+            "name": "Dana Buxton",
+            "postedDate": "Feb 13, 2021",
+            "location": "Seattle, WA"
+        }
+    ],
+
+    "Messages": [
+        {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Stephen Jackson",
+            "subject": "new job posting",
+            "text": "Jennifer, I'm letting you know that a new job that I feel woluld be a great fit has been posted. You can..",
+            "date": "05.05.2021"
+        },
+        {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Dana Buxton",
+            "subject": "new job posting",
+            "text": "Jennifer, I'm letting you know that a new job that I feel woluld be a great fit has been posted. You can..",
+            "date": "05.05.2021"
+        }
+       
+    ],
+    "NewJobs": [
+        {
+			"title": "Accounts Payable Clerk",
+            "servicesName":"AMP Services",
+            "postDate": "February 13, 2021",
+            "location": "Seattle, WA",
+            "discription": "The Accounts Payable Clerk position involves providing financial, administrative and clerical support to the AMP Services team and our clients."
+        },
+		{
+			"title": "Accounts Payable Clerk",
+            "servicesName":"AMP Services",
+            "postDate": "February 13, 2021",
+            "location": "Seattle, WA",
+            "discription": "The Accounts Payable Clerk position involves providing financial, administrative and clerical support to the AMP Services team and our clients."
+        }
+    ],
+	"Sponsership": [
+        {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Jessica Adams",
+            "email": "jess.adams@gmail.com",
+            "phone": "203.555.7384",
+            "status": "Approved"
+        },
+       {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Sarah Baker",
+            "email": "sa.baker@gmail.com",
+            "phone": "203.555.7384",
+            "status": "Declined"
+        },
+	 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+            "status": "Pending"
+        },
+	 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Becky Holnes",
+            "email": "becky@gmail.com",
+            "phone": "203.555.7384",
+            "status": "Approved"
+        },
+	 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+            "status": "Declined"
+        },
+	 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Becky Holnes",
+            "email": "becky@gmail.com",
+            "phone": "203.555.7384",
+            "status": "Pending"
+        },
+	 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+            "status": "Approved"
+        },
+		 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+            "status": "Pending"
+        },
+		 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+            "status": "Declined"
+        },
+		 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+            "status": "Pending"
+        }
+    ]
 }
