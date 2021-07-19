@@ -15,76 +15,76 @@
             "discription": "Process accounts payable invoices/bills reviewing for accuracy, completeness and coding to grant and general ledger codes. Prepares payments for signatures"
         }
     ],
-	"Sponsership": [
+	"JobSeekers": [
         {
             "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
             "name": "Jessica Adams",
             "email": "jess.adams@gmail.com",
             "phone": "203.555.7384",
-            "status": "Approved"
+            "jobcompany": "Starbucks"
         },
        {
             "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
             "name": "Sarah Baker",
             "email": "sa.baker@gmail.com",
             "phone": "203.555.7384",
-            "status": "Declined"
+              "jobcompany": "Chase"
         },
 	 {
             "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
             "name": "Roger Decker",
             "email": "rogerdecker@gmail.com",
             "phone": "203.555.7384",
-            "status": "Pending"
-        },
-	 {
-            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-            "name": "Becky Holnes",
-            "email": "becky@gmail.com",
-            "phone": "203.555.7384",
-            "status": "Approved"
-        },
-	 {
-            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
-            "name": "Roger Decker",
-            "email": "rogerdecker@gmail.com",
-            "phone": "203.555.7384",
-            "status": "Declined"
+             "jobcompany": "Accenture"
         },
 	 {
             "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
             "name": "Becky Holnes",
             "email": "becky@gmail.com",
             "phone": "203.555.7384",
-            "status": "Pending"
+             "jobcompany": "Starbucks"
         },
 	 {
             "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
             "name": "Roger Decker",
             "email": "rogerdecker@gmail.com",
             "phone": "203.555.7384",
-            "status": "Approved"
+             "jobcompany": "Chase"
+        },
+	 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Becky Holnes",
+            "email": "becky@gmail.com",
+            "phone": "203.555.7384",
+             "jobcompany": "Accenture"
+        },
+	 {
+            "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "name": "Roger Decker",
+            "email": "rogerdecker@gmail.com",
+            "phone": "203.555.7384",
+              "jobcompany": "Starbucks"
         },
 		 {
             "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
             "name": "Roger Decker",
             "email": "rogerdecker@gmail.com",
             "phone": "203.555.7384",
-            "status": "Pending"
+             "jobcompany": "Chase"
         },
 		 {
             "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
             "name": "Roger Decker",
             "email": "rogerdecker@gmail.com",
             "phone": "203.555.7384",
-            "status": "Declined"
+              "jobcompany": "Accenture"
         },
 		 {
             "avatar":"https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
             "name": "Roger Decker",
             "email": "rogerdecker@gmail.com",
             "phone": "203.555.7384",
-            "status": "Pending"
+             "jobcompany": "Starbucks"
         }
     ]
 }
