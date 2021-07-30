@@ -232,6 +232,13 @@
 		
        
     ],
-	"Employee": []
+	"Employee": [
+		{
+		"firstName": "Sarah",
+		"lastName": "Baker",
+		"email": "Sarahaker@gmail.com",
+		"phone": "9999999999"
+		}
+	]
 	
 }
